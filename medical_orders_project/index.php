@@ -125,6 +125,7 @@
                     <div class="col-sm-12">
                         <div class="form-group">
                             <button type="submit" name="submit" class="btn btn-success form-control">Send</button>
+                            <a href="<?php echo BURLA?>" type="button"class="form-control btn btn-secondary" >admin</a>
                         </div>
                     </div>
                     
