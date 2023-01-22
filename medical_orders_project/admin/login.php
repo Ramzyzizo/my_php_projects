@@ -73,6 +73,7 @@ require BL.'functions/validation.php';?>
 
                         <div class="form-group">
                             <input type="submit" name="submit" class="form-control btn btn-success"value="Sign in">
+                            <a href="<?php echo BURL?>" type="button"class="form-control btn btn-secondary" >As User</a>
                         </div>
                     </div>
                 </div>
